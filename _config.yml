@@ -20,6 +20,8 @@ social:
     - https://github.com/YJPL/supply
     - https://www.linkedin.com/company/templates-supply/
 
+remote_theme: Supply
+
 # Build settings
 markdown: kramdown
 timezone: FR
